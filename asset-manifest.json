@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fallout-scrapper/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/fallout-scrapper/static/js/main.14b7fa9d.chunk.js",
+    "main.js.map": "/fallout-scrapper/static/js/main.14b7fa9d.chunk.js.map",
+    "runtime-main.js": "/fallout-scrapper/static/js/runtime-main.89624be8.js",
+    "runtime-main.js.map": "/fallout-scrapper/static/js/runtime-main.89624be8.js.map",
+    "static/css/2.0070780f.chunk.css": "/fallout-scrapper/static/css/2.0070780f.chunk.css",
+    "static/js/2.7d90a98f.chunk.js": "/fallout-scrapper/static/js/2.7d90a98f.chunk.js",
+    "static/js/2.7d90a98f.chunk.js.map": "/fallout-scrapper/static/js/2.7d90a98f.chunk.js.map",
+    "index.html": "/fallout-scrapper/index.html",
+    "precache-manifest.5cdb840b0b80a9d1108a8c891ffd328d.js": "/fallout-scrapper/precache-manifest.5cdb840b0b80a9d1108a8c891ffd328d.js",
+    "service-worker.js": "/fallout-scrapper/service-worker.js",
+    "static/css/2.0070780f.chunk.css.map": "/fallout-scrapper/static/css/2.0070780f.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/fallout-scrapper/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7d90a98f.chunk.js.LICENSE.txt": "/fallout-scrapper/static/js/2.7d90a98f.chunk.js.LICENSE.txt",
+    "static/media/Overseer.woff": "/fallout-scrapper/static/media/Overseer.4604fab7.woff",
+    "static/media/index.css": "/fallout-scrapper/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89624be8.js",
+    "static/css/2.0070780f.chunk.css",
+    "static/js/2.7d90a98f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.14b7fa9d.chunk.js"
+  ]
+}
