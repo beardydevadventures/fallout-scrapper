@@ -1,7 +1,7 @@
 # fallout-scrapper
 Built using React and Material-UI, fallout-scrapper was created to make it easier find what junk to keep an eye out for in Fallout based on the particular components.
 
-[Fallout Scrapper Screenshot](https://matthewaisthorpe.com.au/wp-content/uploads/2020/04/fallout-scrapper.jpg)
+![Fallout Scrapper Screenshot](https://matthewaisthorpe.com.au/wp-content/uploads/2020/04/fallout-scrapper.jpg)
 
 ## Prerequisites
 1. Node.JS 12 + NPM 
